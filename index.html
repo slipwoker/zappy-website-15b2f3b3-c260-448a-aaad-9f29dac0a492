@@ -1326,7 +1326,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
   </div>
 </section>
 
-<section data-band-index="1" class="index-positioning-section zappy-lazy-bg" data-layout-spec="בית-positioning" style="background-color: #F0EDE8;color: #182338;position: relative;overflow: visible;padding-bottom: 80px" data-zappy-lazy-bg="background-image: url(&quot;data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='30' cy='30' r='1' fill='%23182338' fill-opacity='0.04'/%3E%3C/svg%3E&quot;);">
+<section data-band-index="1" class="index-positioning-section zappy-lazy-bg" data-layout-spec="בית-positioning" style="background-color: #F0EDE8;color: #182338;position: relative;overflow: visible;padding-bottom: 80px" id="index-positioning-section" data-zappy-lazy-bg="background-image: url(&quot;data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='30' cy='30' r='1' fill='%23182338' fill-opacity='0.04'/%3E%3C/svg%3E&quot;);">
 
   <!-- Decorative Topographic SVG -->
   <svg data-no-icon-edit="true" aria-hidden="true" class="topographic-bg" viewBox="0 0 600 600" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
@@ -1407,37 +1407,31 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
             <path d="M120,320 Q250,360 300,300 T480,340" fill="none" stroke="#0EA5A8" stroke-opacity="0.3" stroke-width="2" stroke-dasharray="6,8"></path>
           </svg>
 
-          <img loading="lazy" decoding="async" data-placeholder="index-positioning-image-1" data-context="A stylized, low-opacity aerial photograph of a vintage desk with an open ledger, a compass, and financial documents, overlaid with subtle route-map lines and glowing teal and copper nodes, representing a strategic financial atlas." width="600" height="400" src="/assets/site-image-index-positioning-image-1.webp" alt="מפת אטלס פיננסי אסטרטגי" class="atlas-image" fetchpriority="low">
+          <img loading="lazy" decoding="async" data-placeholder="index-positioning-image-1" data-context="A stylized, low-opacity aerial photograph of a vintage desk with an open ledger, a compass, and financial documents, overlaid with subtle route-map lines and glowing teal and copper nodes, representing a strategic financial atlas." width="600" height="400" src="/assets/site-image-index-positioning-image-1.webp" alt="מפת אטלס פיננסי אסטרטגי" class="atlas-image" data-element-type="image" data-element-id="img-1784644722859-o7yac0yrl" fetchpriority="low">
         </div>
       </div>
     </div>
 
     <!-- Staggered Statement Cards -->
-    <div class="statements-grid">
+    <div class="statements-grid" style="display: grid; --zappy-grid-cols: repeat(2, minmax(0, 1fr)); grid-template-columns: repeat(2, minmax(0, 1fr));" data-zappy-explicit-columns="true">
       
       <!-- Card 1 -->
-      <div class="statement-card card-1">
-        <div class="card-inner">
-          <span class="copper-marker">01</span>
-          <h3 class="card-title">סדר פיננסי יומיומי</h3>
-          <p class="card-text">אנו דואגים שכל תנועה כספית מתועדת ומנותחת בזמן אמת, כך שתוכלו לקבל החלטות מבוססות נתונים ללא עיכובים. הסדר הזה הוא הבסיס לצמיחה יציבה.</p>
-        </div>
-      </div>
+      
 
       <!-- Card 2 -->
-      <div class="statement-card card-2">
+      <div class="statement-card card-2" data-grid-item-index="0">
         <div class="card-inner">
-          <span class="copper-marker">02</span>
-          <h3 class="card-title">תכנון מס פרואקטיבי</h3>
+          <p class="zappy-editable"><span class="copper-marker">02</span>
+          </p><h3 class="card-title">תכנון מס פרואקטיבי</h3>
           <p class="card-text">במקום להגיב למצב הקיים, אנו מקדימים תרופה למכה. הצוות שלנו בונה אסטרטגיית מס שנתית המותאמת אישית לעסק שלכם, תוך ניצול מלוא ההטבות והפטורים הקבועים בחוק.</p>
         </div>
       </div>
 
       <!-- Card 3 -->
-      <div class="statement-card card-3">
+      <div class="statement-card card-3" data-grid-item-index="1">
         <div class="card-inner">
-          <span class="copper-marker">03</span>
-          <h3 class="card-title">תמיכה בצמיחה אסטרטגית</h3>
+          <p class="zappy-editable"><span class="copper-marker">03</span>
+          </p><h3 class="card-title">תמיכה בצמיחה אסטרטגית</h3>
           <p class="card-text">מעבר לדוחות, אנו מספקים תובנות פיננסיות עמוקות. אנו מלווים אתכם בתהליכי התרחבות, גיוס הון, וניהול סיכונים, כדי להפוך את החזון העסקי שלכם למציאות רווחית.</p>
         </div>
       </div>
