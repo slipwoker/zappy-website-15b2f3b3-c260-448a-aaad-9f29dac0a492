@@ -1,0 +1,89 @@
+# פלוס מינוס — Generative Engine Optimization Map
+
+> A full-service accounting firm offering comprehensive financial guidance, from bookkeeping and account management to complete tax optimization. The firm positions itself as a holistic financial partner, emphasizing end-to-end support for its clients rather than just basic accounting services.
+
+---
+
+## Pages
+
+### בית
+https://-15b2f3b3.zappy5.app
+מחפשים מעבר להנהלת חשבונות? פלוס מינוס מציעה ליווי פיננסי מקיף, ייעוץ מס וראייה עסקית הוליסטית. התחילו לצמוח איתנו עוד היום!
+
+### שירותים
+https://-15b2f3b3.zappy5.app/services
+גלו את חבילת השירותים הפיננסיים שלנו: מהנהלת חשבונות ועד אופטימיזציית מס. פתרונות outsourcing finance and accounting services שמותאמים בדיוק עבורכם.
+
+### אודות
+https://-15b2f3b3.zappy5.app/about
+הכירו את הצוות שמאחורי פלוס מינוס – מומחים בחשבונאות פיננסית וניהולית שמאמינים בשקיפות, מסירות ושותפות אמיתית לדרך. בואו לגלות איך אנחנו עובדים.
+
+### צור קשר
+https://-15b2f3b3.zappy5.app/contact
+מוכנים לצעד הבא? צרו קשר עם פלוס מינוס עוד היום לשיחת ייעוץ ראשונית ללא התחייבות. נשמח לבנות יחד אתכם את האסטרטגיה הפיננסית המנצחת שלכם.
+
+### תודה שפניתם אלינו
+https://-15b2f3b3.zappy5.app/thank-you
+פלוס מינוס - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-15b2f3b3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-15b2f3b3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-15b2f3b3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-15b2f3b3.zappy5.app/contact
+- Endpoint: https://-15b2f3b3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פלוס מינוס
+A full-service accounting firm offering comprehensive financial guidance, from bookkeeping and account management to complete tax optimization. The firm positions itself as a holistic financial partner, emphasizing end-to-end support for its clients rather than just basic accounting services.
+
+## Services/Products
+- ניהול חשבונות
+- ליווי פיננסי מלא
+- אופטימיזציה של מיסים
+
+## Target Audience
+- בעלי עסקים קטנים
+- מקצוענים בעלי הכנסה גבוהה
+- יזמי סטארטאפים
+- פרילנסרים
+- חברות גדולות
+
+## Industry
+Accounting & Financial Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-15b2f3b3.zappy5.app/sitemap.xml
+- Robots: https://-15b2f3b3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-15b2f3b3.zappy5.app/llms-full.txt
