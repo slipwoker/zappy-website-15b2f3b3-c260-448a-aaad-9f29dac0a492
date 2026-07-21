@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-15b2f3b3.zappy5.app
+https://example.com
 מחפשים מעבר להנהלת חשבונות? פלוס מינוס מציעה ליווי פיננסי מקיף, ייעוץ מס וראייה עסקית הוליסטית. התחילו לצמוח איתנו עוד היום!
 
 ### שירותים
-https://-15b2f3b3.zappy5.app/services
+https://example.com/services
 גלו את חבילת השירותים הפיננסיים שלנו: מהנהלת חשבונות ועד אופטימיזציית מס. פתרונות outsourcing finance and accounting services שמותאמים בדיוק עבורכם.
 
 ### אודות
-https://-15b2f3b3.zappy5.app/about
+https://example.com/about
 הכירו את הצוות שמאחורי פלוס מינוס – מומחים בחשבונאות פיננסית וניהולית שמאמינים בשקיפות, מסירות ושותפות אמיתית לדרך. בואו לגלות איך אנחנו עובדים.
 
 ### צור קשר
-https://-15b2f3b3.zappy5.app/contact
+https://example.com/contact
 מוכנים לצעד הבא? צרו קשר עם פלוס מינוס עוד היום לשיחת ייעוץ ראשונית ללא התחייבות. נשמח לבנות יחד אתכם את האסטרטגיה הפיננסית המנצחת שלכם.
 
 ### תודה שפניתם אלינו
-https://-15b2f3b3.zappy5.app/thank-you
+https://example.com/thank-you
 פלוס מינוס - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-15b2f3b3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-15b2f3b3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-15b2f3b3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-15b2f3b3.zappy5.app/contact
-- Endpoint: https://-15b2f3b3.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -84,6 +84,6 @@ Accounting & Financial Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-15b2f3b3.zappy5.app/sitemap.xml
-- Robots: https://-15b2f3b3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-15b2f3b3.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
