@@ -3421,6 +3421,7 @@ main { flex: 1 0 auto; }
   flex-direction: column;
   align-items: center;
   gap: 24px;
+  text-align: center;
 }
 
 .index-cta-section .cta-headline {
